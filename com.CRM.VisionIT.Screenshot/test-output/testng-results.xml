@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="29118" started-at="2019-06-24T13:34:00Z" finished-at="2019-06-24T13:34:29Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="29118" started-at="2019-06-24T13:34:00Z" finished-at="2019-06-24T13:34:29Z">
+      <class name="com.CRM.VisionIT.Screenshot.TestCases.Login_Test_Page">
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.CRM.VisionIT.Screenshot.TestCases.Login_Test_Page@3884b2]" name="setup" is-config="true" duration-ms="12122" started-at="2019-06-24T19:04:00Z" finished-at="2019-06-24T19:04:12Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="verify_LoginPAge_Title()[pri:0, instance:com.CRM.VisionIT.Screenshot.TestCases.Login_Test_Page@3884b2]" name="verify_LoginPAge_Title" duration-ms="33" started-at="2019-06-24T19:04:12Z" finished-at="2019-06-24T19:04:12Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verify_LoginPAge_Title -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:com.CRM.VisionIT.Screenshot.TestCases.Login_Test_Page@3884b2]" name="teardown" is-config="true" duration-ms="956" started-at="2019-06-24T19:04:12Z" finished-at="2019-06-24T19:04:13Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.CRM.VisionIT.Screenshot.TestCases.Login_Test_Page@3884b2]" name="setup" is-config="true" duration-ms="9858" started-at="2019-06-24T19:04:13Z" finished-at="2019-06-24T19:04:23Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="Verify_Login_Page()[pri:0, instance:com.CRM.VisionIT.Screenshot.TestCases.Login_Test_Page@3884b2]" name="Verify_Login_Page" duration-ms="5216" started-at="2019-06-24T19:04:23Z" finished-at="2019-06-24T19:04:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Verify_Login_Page -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:com.CRM.VisionIT.Screenshot.TestCases.Login_Test_Page@3884b2]" name="teardown" is-config="true" duration-ms="904" started-at="2019-06-24T19:04:28Z" finished-at="2019-06-24T19:04:29Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- com.CRM.VisionIT.Screenshot.TestCases.Login_Test_Page -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
